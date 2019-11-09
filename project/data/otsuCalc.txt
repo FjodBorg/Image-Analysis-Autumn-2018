@@ -1,0 +1,2 @@
+index	prob
+tmed0	med1

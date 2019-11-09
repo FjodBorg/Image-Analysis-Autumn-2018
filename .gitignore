@@ -1,0 +1,4 @@
+gw/build/*
+project/build/*
+project/fig/filtered
+project/CMakeLists.txt
